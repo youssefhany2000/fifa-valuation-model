@@ -1,0 +1,13 @@
+Prerequisites:
+
+Ensure you have Python 3.8+ installed on your system. It is highly recommended to use a virtual environment to avoid dependency conflicts.
+
+install these libraries:
+
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+jupyter
